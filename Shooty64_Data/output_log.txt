@@ -1,0 +1,66 @@
+Initialize engine version: 5.2.2f1 (3757309da7e7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 780 (ID=0x1004)
+    Vendor:   NVIDIA
+    VRAM:     3029 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Code\Shooty\Shooty64_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Code\Shooty\Shooty64_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Code\Shooty\Shooty64_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Code\Shooty\Shooty64_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Code\Shooty\Shooty64_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Code\Shooty\Shooty64_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Code\Shooty\Shooty64_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Code\Shooty\Shooty64_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Code\Shooty\Shooty64_Data\Managed\Mono.Data.Sqlite.dll (this message is harmless)
+Loading C:\Code\Shooty\Shooty64_Data\Managed\Mono.Data.Sqlite.dll into Unity Child Domain
+Platform assembly: C:\Code\Shooty\Shooty64_Data\Managed\System.Data.dll (this message is harmless)
+Loading C:\Code\Shooty\Shooty64_Data\Managed\System.Data.dll into Unity Child Domain
+Platform assembly: C:\Code\Shooty\Shooty64_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.078 seconds
+desktop: 1920x1080 60Hz; virtual: 3840x1080 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Code\Shooty\Shooty64_Data\Managed\System.dll (this message is harmless)
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: dec -> priority: 1 
+  Thread -> id: 12bc -> priority: 1 
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.893523 ms
+
+Unloading 6 unused Assets to reduce memory usage. Loaded Objects now: 233.
+Total: 0.251865 ms (FindLiveObjects: 0.016324 ms CreateObjectMapping: 0.011327 ms MarkObjects: 0.190231 ms  DeleteObjects: 0.027651 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.512193 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 433.
+Total: 0.382795 ms (FindLiveObjects: 0.041977 ms CreateObjectMapping: 0.013326 ms MarkObjects: 0.311167 ms  DeleteObjects: 0.015325 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.772587 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 494.
+Total: 0.429770 ms (FindLiveObjects: 0.039312 ms CreateObjectMapping: 0.017657 ms MarkObjects: 0.359141 ms  DeleteObjects: 0.013326 ms)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.769256 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 573.
+Total: 0.445429 ms (FindLiveObjects: 0.047641 ms CreateObjectMapping: 0.017657 ms MarkObjects: 0.367470 ms  DeleteObjects: 0.011993 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.857542 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 463.
+Total: 0.606010 ms (FindLiveObjects: 0.070295 ms CreateObjectMapping: 0.026985 ms MarkObjects: 0.489072 ms  DeleteObjects: 0.018323 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.753264 ms
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 271.
+Total: 0.458422 ms (FindLiveObjects: 0.027651 ms CreateObjectMapping: 0.017657 ms MarkObjects: 0.378131 ms  DeleteObjects: 0.034648 ms)
+
